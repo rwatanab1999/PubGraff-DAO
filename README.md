@@ -1,8 +1,8 @@
 # PubGraff DAO
-<img width="500" alt="img" src="https://github.com/rwatanab1999/PubGraff-DAO/blob/main/images/pg1.png">
-**グラフィティアートの二項対立から、新しい社会的受容のあり方を哲学し実践するDAO・NFTプロジェクト．**
+<img width="1000" alt="img" src="https://github.com/rwatanab1999/PubGraff-DAO/blob/main/images/pg1.png">
+**グラフィティアートの二項対立から、新しい社会的受容のあり方を哲学し実践するDAO・NFTプロジェクト.
 
-PowerPoint : https://onedrive.live.com/view.aspx?resid=D2FB3888054E2804!144&ithint=file%2cpptx&authkey=!AHbc1nMzKdTGm3w
+> PowerPoint : https://onedrive.live.com/view.aspx?resid=D2FB3888054E2804!144&ithint=file%2cpptx&authkey=!AHbc1nMzKdTGm3w
 
 
 # プロジェクト概要
