@@ -9,7 +9,6 @@
 
 
 # プロジェクト概要
-<img width="1000" alt="img" src="https://github.com/rwatanab1999/PubGraff-DAO/blob/main/images/pg3.png">
 グラフィティアートとは，主にスプレーやステッカーを用いて，ビルや高架下の壁などの公共物に描かれるアート形態の総称である．社会問題や特定思想を巧妙に表現・風刺したりと，芸術性の高いアートとして評価される一方，景観保護や治安維持の観点から，単なる落書きであり破壊活動として排除されることもある．
 我々は，グラフィティアートを巡る「芸術であると同時に，違法な破壊活動でもある．」といった二項対立に着目し，新しい社会的受容のあり方を哲学し実践するDAO・NFTプロジェクト「PubGraff DAO」を立ち上げた．
 
@@ -17,15 +16,12 @@ PubGraff DAOは，グラフィティアートが抱える両義的な性質に�
 
 
 # エコシステム
-<img width="1000" alt="img" src="https://github.com/rwatanab1999/PubGraff-DAO/blob/main/images/pg18.png">
 
 ## グラフィティアートの全体像を可視化
-<img width="1000" alt="img" src="https://github.com/rwatanab1999/PubGraff-DAO/blob/main/images/pg9.png">
 新しい社会的受容のあり方を哲学し実践する前提として，グラフィティアートの全体像を可視化させ，公共的な情報として社会に発信し続ける必要がある．PubGraff DAOでは，その象徴的な活動として，グラフィティアートのデータセット作成とマッピングを行なっていく．
 この地道な活動を継続させるために，画像データの提供者には「ReGraff NFT」という報酬NFTを配布する．ReGraff NFTは，収集データを機械学習させ生成した画像を使用しており，DAOの営みが反映される（入力データ量に比例して，生成画像の精度やディテールが向上していく）NFTとして，メンバーシップ的役割を担う．
 
 ## コミュニティ運営
-<img width="1000" alt="img" src="https://github.com/rwatanab1999/PubGraff-DAO/blob/main/images/pg14.png">
 DAOコミュニティの運営は，健全かつ厳正なガバナンス運用が求められる．特にDAO内で生まれるプロジェクトは，提案と投票によって発起し予算が割り当てられるため，オンチェーンガバナンスを実現させる必要がある．PubGraff DAOでは，Nouns Builderというプラットフォームを採用し，「PubGraff NFT」というガバナンストークンを発行．PubGraff NFTは，Nouns Builder上で生成・オークション・売上管理が自動で行われ，そのホルダーには，所有権者としての提案・投票権が付与される．ガバナンスツールやDAO構成員の証明として，オーナーシップ的役割を担う．
 
 
