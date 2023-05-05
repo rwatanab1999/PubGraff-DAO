@@ -61,3 +61,5 @@ DAO内でのガバナンスに基づく提案と投票によって，さまざ�
 - 「DAOATHON」IVS Crypto賞
 
 2023/4/1-4/9に開催された「DAOATHON」にてIVS Crypto賞を受賞しました。6月に開催されるIVS Cryptoにてピッチを行います。
+
+- web3エンタメハッカソン SHINSEKAI Technology賞
