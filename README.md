@@ -17,6 +17,7 @@ PubGraff DAOは，グラフィティアートが抱える両義的な性質に�
 
 
 # エコシステム
+<img width="874" alt="スクリーンショット 2023-05-13 22 19 09" src="https://github.com/rwatanab1999/PubGraff-DAO/assets/101140119/c656a628-714c-4058-b516-f0dc7ede969c">
 
 - **グラフィティアートの全体像を可視化**
 
