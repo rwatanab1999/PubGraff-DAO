@@ -64,4 +64,5 @@ DAO内でのガバナンスに基づく提案と投票によって，さまざ�
 
 - 『WEB3 x Entertainment Creative Hackthon/Ideathon」 SHINSEKAI Technology賞
 
-2023/3/25-4/22に開催された「WEB3 x Entertainment Creative Hackthon/Ideathon」にて，SHINSEKAI Technology賞を受賞しました．
+2023/3/25-4/22に開催された「WEB3 x Entertainment Creative Hackthon/Ideathon」にて，SHINSEKAI Technology賞を受賞しました．Social Goodを実現する設計プランを評価され，¥300,000の開発資金をいただきました．
+
