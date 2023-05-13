@@ -60,6 +60,8 @@ DAO内でのガバナンスに基づく提案と投票によって，さまざ�
 
 - 「DAOATHON」IVS Crypto賞
 
-2023/4/1-4/9に開催された「DAOATHON」にてIVS Crypto賞を受賞しました。6月に開催されるIVS Cryptoにてピッチを行います。
+2023/4/1-4/9に開催された「DAOATHON」にて，IVS Crypto賞を受賞しました。6月に開催されるIVS Cryptoにてピッチを行います。
 
-- web3エンタメハッカソン SHINSEKAI Technology賞
+- 『WEB3 x Entertainment Creative Hackthon/Ideathon」 SHINSEKAI Technology賞
+
+2023/3/25-4/22に開催された「WEB3 x Entertainment Creative Hackthon/Ideathon」にて，SHINSEKAI Technology賞を受賞しました．
